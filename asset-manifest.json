@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/Patriot-moto/static/css/main.33b7c9f2.css",
-    "main.js": "/Patriot-moto/static/js/main.e650cae5.js",
+    "main.css": "/Patriot-moto/static/css/main.efe4ec81.css",
+    "main.js": "/Patriot-moto/static/js/main.a1e2d43b.js",
     "static/js/453.022b4fbf.chunk.js": "/Patriot-moto/static/js/453.022b4fbf.chunk.js",
+    "static/media/BrrBrrPatapim.png": "/Patriot-moto/static/media/BrrBrrPatapim.38c18da4ddd98913e9dd.png",
     "static/media/MelonChurkaOne.png": "/Patriot-moto/static/media/MelonChurkaOne.bd237349f823ec931957.png",
     "static/media/ChurkaOne.png": "/Patriot-moto/static/media/ChurkaOne.1143c834bd2783f1dec2.png",
     "static/media/Headlight.png": "/Patriot-moto/static/media/Headlight.f2b9d0ed0f9450ea0d0c.png",
     "static/media/Arrow.png": "/Patriot-moto/static/media/Arrow.2b959be5bb034bf9e994.png",
     "index.html": "/Patriot-moto/index.html",
-    "main.33b7c9f2.css.map": "/Patriot-moto/static/css/main.33b7c9f2.css.map",
-    "main.e650cae5.js.map": "/Patriot-moto/static/js/main.e650cae5.js.map",
+    "main.efe4ec81.css.map": "/Patriot-moto/static/css/main.efe4ec81.css.map",
+    "main.a1e2d43b.js.map": "/Patriot-moto/static/js/main.a1e2d43b.js.map",
     "453.022b4fbf.chunk.js.map": "/Patriot-moto/static/js/453.022b4fbf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.33b7c9f2.css",
-    "static/js/main.e650cae5.js"
+    "static/css/main.efe4ec81.css",
+    "static/js/main.a1e2d43b.js"
   ]
 }
